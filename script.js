@@ -11,7 +11,7 @@ document.getElementsByClassName("second")
 document.querySelector("ol").getElementsByClassName("third")
 
 // Give the section with an id of container the text Hello
-document.getElementById("container").innerHTML = "Hello!"
+//document.getElementById("container").innerHTML = "Hello!"
 
 // Add the class main to the div with a class of footer
 var main = document.createElement("main")
